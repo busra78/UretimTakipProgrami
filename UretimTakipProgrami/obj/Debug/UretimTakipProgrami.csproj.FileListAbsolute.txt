@@ -1,0 +1,15 @@
+C:\Users\busra\OneDrive\Masaüstü\ÜretimTakipProgramı\UretimTakipProgrami\UretimTakipProgrami\bin\Debug\UretimTakipProgrami.exe.config
+C:\Users\busra\OneDrive\Masaüstü\ÜretimTakipProgramı\UretimTakipProgrami\UretimTakipProgrami\bin\Debug\UretimTakipProgrami.exe
+C:\Users\busra\OneDrive\Masaüstü\ÜretimTakipProgramı\UretimTakipProgrami\UretimTakipProgrami\bin\Debug\UretimTakipProgrami.pdb
+C:\Users\busra\OneDrive\Masaüstü\ÜretimTakipProgramı\UretimTakipProgrami\UretimTakipProgrami\obj\Debug\UretimTakipProgrami.csprojAssemblyReference.cache
+C:\Users\busra\OneDrive\Masaüstü\ÜretimTakipProgramı\UretimTakipProgrami\UretimTakipProgrami\obj\Debug\UretimTakipProgrami.Properties.Resources.resources
+C:\Users\busra\OneDrive\Masaüstü\ÜretimTakipProgramı\UretimTakipProgrami\UretimTakipProgrami\obj\Debug\UretimTakipProgrami.csproj.GenerateResource.cache
+C:\Users\busra\OneDrive\Masaüstü\ÜretimTakipProgramı\UretimTakipProgrami\UretimTakipProgrami\obj\Debug\UretimTakipProgrami.csproj.CoreCompileInputs.cache
+C:\Users\busra\OneDrive\Masaüstü\ÜretimTakipProgramı\UretimTakipProgrami\UretimTakipProgrami\obj\Debug\UretimTakipProgrami.exe
+C:\Users\busra\OneDrive\Masaüstü\ÜretimTakipProgramı\UretimTakipProgrami\UretimTakipProgrami\obj\Debug\UretimTakipProgrami.pdb
+C:\Users\busra\OneDrive\Masaüstü\ÜretimTakipProgramı\UretimTakipProgrami\UretimTakipProgrami\obj\Debug\UretimTakipProgrami.Anasayfa.resources
+C:\Users\busra\OneDrive\Masaüstü\ÜretimTakipProgramı\UretimTakipProgrami\UretimTakipProgrami\obj\Debug\UretimTakipProgrami.Giris.resources
+C:\Users\busra\OneDrive\Masaüstü\ÜretimTakipProgramı\UretimTakipProgrami\UretimTakipProgrami\obj\Debug\UretimTakipProgrami.Tanimlama.resources
+C:\Users\busra\OneDrive\Masaüstü\ÜretimTakipProgramı\UretimTakipProgrami\UretimTakipProgrami\obj\Debug\UretimTakipProgrami.Listeleme.resources
+C:\Users\busra\OneDrive\Masaüstü\ÜretimTakipProgramı\UretimTakipProgrami\UretimTakipProgrami\obj\Debug\UretimTakipProgrami.Stok.resources
+C:\Users\busra\OneDrive\Masaüstü\ÜretimTakipProgramı\UretimTakipProgrami\UretimTakipProgrami\obj\Debug\UretimTakipProgrami.Rapor.resources
